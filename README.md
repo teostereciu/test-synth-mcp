@@ -6,3 +6,5 @@ Test repository for SynthMCP benchmark
 <!-- merge test 1772109295 -->
 
 <!-- merge test 1772116001 -->
+
+<!-- API feature -->
