@@ -1,0 +1,24 @@
+name: Test Workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: "Environment to deploy to"
+        required: true
+        default: "staging"
+      version:
+        description: "Version to deploy"
+        required: true
+        default: "v1.0.0"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo inputs
+        run: |
+          echo "Environment: ${{ github.event.inputs.environment }}"
+          echo "Version: ${{ github.event.inputs.version }}"
+      - name: Run tests
+        run: echo "Running tests..."
