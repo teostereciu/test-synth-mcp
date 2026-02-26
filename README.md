@@ -14,3 +14,7 @@ Test repository for SynthMCP benchmark
 <!-- merge test 1772116938 -->
 
 <!-- merge test 1772117320 -->
+
+
+## Contributing
+See CONTRIBUTING.md for guidelines
