@@ -52,3 +52,8 @@ Test repository for SynthMCP benchmark
 
 
 <!-- Test change from test-pr-1772544005 -->
+
+
+## Contributing
+
+See CONTRIBUTING.md for guidelines
