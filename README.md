@@ -7,3 +7,8 @@ This is a test repository for GitHub MCP server scenarios.
 This repository is used for testing GitHub API operations.
 
 <!-- Test change for merge PR test-pr-42-1773757961 -->
+
+
+## Contributing
+
+See CONTRIBUTING.md for guidelines
