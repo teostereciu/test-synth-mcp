@@ -17,3 +17,8 @@ This repository is used for testing GitHub API operations.
 <!-- Test change for merge PR test-pr-42-1773838099 -->
 
 <!-- Test change for merge PR test-pr-42-1773838616 -->
+
+
+## Contributing
+
+See CONTRIBUTING.md for guidelines
