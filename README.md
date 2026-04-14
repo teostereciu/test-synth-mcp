@@ -30,3 +30,6 @@ This repository is used for testing GitHub API operations.
 ## Contributing
 
 See CONTRIBUTING.md for guidelines
+
+## Contributing
+See CONTRIBUTING.md for guidelines
